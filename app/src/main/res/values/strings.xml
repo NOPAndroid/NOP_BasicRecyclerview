@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NOP_BasicRecyclerview</string>
+    <string name="title_recyclerview_list">RecyclerView List</string>
+</resources>
